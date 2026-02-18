@@ -1,0 +1,37 @@
+// Asset imports converted for Next.js
+// Note: You'll need to place your figma:asset images in the /public/images folder
+// and update these paths accordingly
+
+export const assets = {
+  image_1d2949d7580fad4455141fc9c476db844ae6e24d: '/images/1d2949d7580fad4455141fc9c476db844ae6e24d.png',
+  image_1532719df76913e421e79073e6d3749741d2933c: '/images/1532719df76913e421e79073e6d3749741d2933c.png',
+  image_3689b31befc790c81862d65921b0582f302ee8c8: '/images/3689b31befc790c81862d65921b0582f302ee8c8.png',
+  lumaImage: '/images/f6c0de1a777415bc219addc028f397dad890e3df.png',
+  image_dbddd50130405de4294ef3c1d4a6ac2a68f11ad7: '/images/dbddd50130405de4294ef3c1d4a6ac2a68f11ad7.png',
+  adriusGroupImage: '/images/ac4478184845fca9b22f049880a61a6dbcb999fc.png',
+  reltoImage: '/images/8653c807f99953a448854bdd3417135cdae4cd49.png',
+  profileImage: '/images/254a74915305926c24693cc3c25f9af6a5dc7745.png',
+  workbloxImage: '/images/96628f103f960d3d689279cf667cdb8dea4c8e5b.png',
+  fivaImage: '/images/da1fd49befc5402fee52cd525ce6da924948e400.png',
+  workblox404Image: '/images/773c6d14f7c857972d4bd650e3c654f1411995a6.png',
+  workbloxLogoImage: '/images/c044b56280742261b063d13d31464de7339ac42d.png',
+  wudgetsLogoImage: '/images/86475b8d75b4c2f1e3368f2af3b6c8e544543410.png',
+  eliteHomeTherapyImage: '/images/b6cc983ddaded72146a675e8178059bfd88be353.png',
+  sweetLondonImage: '/images/379517f3422b2cf9abfcdc28515134b663d3609a.png',
+  socialPost1: '/images/ff133c250ceb094d4bb39c98a06de6a50db10cea.png',
+  socialPost2: '/images/a0963cd6bd9e3fc63b5804b84c3d378345d57bee.png',
+  socialPost3: '/images/c3e9b9efaa533e19c7a85b2fe02c96dcef6ea66c.png',
+  socialPost4: '/images/674b19865c844e0a1f78cf015a54267f31a16ec4.png',
+  socialPost5: '/images/69d26f52c411e08acf40885a739a89f39b9bb171.png',
+  socialPost6: '/images/721b7dc453c371755c50877c793d559cd8c705fa.png',
+  socialPost7: '/images/64a18d0f920958b9344f4374370e02de9e3e0ea7.png',
+  socialPost8: '/images/ff51e6d2bbe3b80c14ea05136d735e1ede79ba69.png',
+  socialPost9: '/images/ab1416536d2ade22c96668ce8ccea5f333aedd81.png',
+  artemisPost: '/images/1864f5ff024d658806c15bc75fa6a63aadad5991.png',
+  flamingoPost: '/images/30ae0ed1956558419bddb3b73b6bd1cd153f2ffc.png',
+  kompleksiFatiPost: '/images/c11d0443205f9c4384809803030a86908a0c86a9.png',
+  uraqaniPost: '/images/0e6cac6459cba4f28f8b2be96cd43736527defb0.png',
+  starbucksPost: '/images/e8a0b49dfa3e18133f656bf1a0122e08460d8550.png',
+  reltoHousingPost: '/images/4ea046db8d4b11228ff5bd3963d6f9cf8ad9e85e.png',
+  adriusEstimatorPost: '/images/394f7c82ff53a8c8d238caf7cbef23a6e7c1c881.png',
+};
