@@ -431,7 +431,7 @@ export default function App() {
           >
             <Sparkles className="w-4 h-4 text-cyan-400" />
             <span className="text-sm text-gray-300">
-              Available for freelance projects
+              Available for new projects
             </span>
           </motion.div>
 
@@ -512,7 +512,7 @@ export default function App() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-sm text-gray-500"
           >
-            Trusted by startups and enterprises across the US
+            Trusted by innovative startups and growing companies
           </motion.div>
 
           {/* Scroll Indicator */}
@@ -577,7 +577,7 @@ export default function App() {
                 <img
                   src={portraitImage}
                   alt="Korab Demi - Senior Product Designer"
-                  className="w-full h-full object-cover grayscale"
+                  className="w-full h-full object-cover"
                 />
                 
                 {/* Subtle cyan glow */}
@@ -599,11 +599,11 @@ export default function App() {
                 className="space-y-4"
               >
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  <span className="text-foreground">Korab Demi</span>, <span className="text-foreground font-semibold">Senior Product Designer</span> with{" "}
-                  <span className="text-cyan-400 font-medium">6+ years</span> crafting{" "}
-                  <span className="text-cyan-400 font-medium">enterprise SaaS</span> solutions for US-based startups. Specialized in{" "}
-                  <span className="text-cyan-400 font-medium">AI-powered platforms</span> and{" "}
-                  <span className="text-cyan-400 font-medium">complex integration systems</span>.
+                  <span className="text-foreground">Korab Demi</span> — <span className="text-foreground font-semibold">Senior Product Designer</span> with{" "}
+                  <span className="text-cyan-400 font-medium">6+ years</span> leading the design of{" "}
+                  <span className="text-cyan-400 font-medium">enterprise SaaS</span> products for fast-growing startups. Focused on{" "}
+                  <span className="text-cyan-400 font-medium">AI-powered platforms</span> and building{" "}
+                  <span className="text-cyan-400 font-medium">scalable, user-centered systems</span>.
                 </p>
               </motion.div>
 
