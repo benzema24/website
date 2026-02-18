@@ -1,10 +1,10 @@
-import image_1d2949d7580fad4455141fc9c476db844ae6e24d from 'figma:asset/1d2949d7580fad4455141fc9c476db844ae6e24d.png';
-import image_1532719df76913e421e79073e6d3749741d2933c from 'figma:asset/1532719df76913e421e79073e6d3749741d2933c.png';
-import image_3689b31befc790c81862d65921b0582f302ee8c8 from 'figma:asset/3689b31befc790c81862d65921b0582f302ee8c8.png';
-import lumaImage from 'figma:asset/f6c0de1a777415bc219addc028f397dad890e3df.png';
-import portraitImage from 'figma:asset/81bf5e537f2a8f6ea4cf6b7da7182efaff02a173.png';
-import adriusGroupImage from 'figma:asset/ac4478184845fca9b22f049880a61a6dbcb999fc.png';
-import reltoImage from 'figma:asset/8653c807f99953a448854bdd3417135cdae4cd49.png';
+import image_1d2949d7580fad4455141fc9c476db844ae6e24d from '/public/images/1d2949d7580fad4455141fc9c476db844ae6e24d.png';
+import image_1532719df76913e421e79073e6d3749741d2933c from '/public/images/1532719df76913e421e79073e6d3749741d2933c.png';
+import image_3689b31befc790c81862d65921b0582f302ee8c8 from '/public/images/3689b31befc790c81862d65921b0582f302ee8c8.png';
+import lumaImage from '/public/images/f6c0de1a777415bc219addc028f397dad890e3df.png';
+import portraitImage from '/public/images/81bf5e537f2a8f6ea4cf6b7da7182efaff02a173.png';
+import adriusGroupImage from '/public/images/ac4478184845fca9b22f049880a61a6dbcb999fc.png';
+import reltoImage from '/public/images/8653c807f99953a448854bdd3417135cdae4cd49.png';
 import {
   ArrowRight,
   Mail,
@@ -38,30 +38,30 @@ import { LogoWall } from "@/app/components/LogoWall";
 import { SocialMediaMarquee } from "@/app/components/SocialMediaMarquee";
 import { DesignerBackground } from "@/app/components/DesignerBackground";
 import { ContactForm } from "@/app/components/ContactForm";
-import profileImage from "figma:asset/254a74915305926c24693cc3c25f9af6a5dc7745.png";
-import workbloxImage from "figma:asset/96628f103f960d3d689279cf667cdb8dea4c8e5b.png";
-import fivaImage from "figma:asset/da1fd49befc5402fee52cd525ce6da924948e400.png";
-import workblox404Image from "figma:asset/773c6d14f7c857972d4bd650e3c654f1411995a6.png";
-import workbloxLogoImage from "figma:asset/c044b56280742261b063d13d31464de7339ac42d.png";
-import wudgetsLogoImage from "figma:asset/86475b8d75b4c2f1e3368f2af3b6c8e544543410.png";
-import eliteHomeTherapyImage from "figma:asset/b6cc983ddaded72146a675e8178059bfd88be353.png";
-import sweetLondonImage from "figma:asset/379517f3422b2cf9abfcdc28515134b663d3609a.png";
-import socialPost1 from "figma:asset/ff133c250ceb094d4bb39c98a06de6a50db10cea.png";
-import socialPost2 from "figma:asset/a0963cd6bd9e3fc63b5804b84c3d378345d57bee.png";
-import socialPost3 from "figma:asset/c3e9b9efaa533e19c7a85b2fe02c96dcef6ea66c.png";
-import socialPost4 from "figma:asset/674b19865c844e0a1f78cf015a54267f31a16ec4.png";
-import socialPost5 from "figma:asset/69d26f52c411e08acf40885a739a89f39b9bb171.png";
-import socialPost6 from "figma:asset/721b7dc453c371755c50877c793d559cd8c705fa.png";
-import socialPost7 from "figma:asset/64a18d0f920958b9344f4374370e02de9e3e0ea7.png";
-import socialPost8 from "figma:asset/ff51e6d2bbe3b80c14ea05136d735e1ede79ba69.png";
-import socialPost9 from "figma:asset/ab1416536d2ade22c96668ce8ccea5f333aedd81.png";
-import artemisPost from "figma:asset/1864f5ff024d658806c15bc75fa6a63aadad5991.png";
-import flamingoPost from "figma:asset/30ae0ed1956558419bddb3b73b6bd1cd153f2ffc.png";
-import kompleksiFatiPost from "figma:asset/c11d0443205f9c4384809803030a86908a0c86a9.png";
-import uraqaniPost from "figma:asset/0e6cac6459cba4f28f8b2be96cd43736527defb0.png";
-import starbucksPost from "figma:asset/e8a0b49dfa3e18133f656bf1a0122e08460d8550.png";
-import reltoHousingPost from "figma:asset/4ea046db8d4b11228ff5bd3963d6f9cf8ad9e85e.png";
-import adriusEstimatorPost from "figma:asset/394f7c82ff53a8c8d238caf7cbef23a6e7c1c881.png";
+import profileImage from "/public/images/254a74915305926c24693cc3c25f9af6a5dc7745.png";
+import workbloxImage from "/public/images/96628f103f960d3d689279cf667cdb8dea4c8e5b.png";
+import fivaImage from "/public/images/da1fd49befc5402fee52cd525ce6da924948e400.png";
+import workblox404Image from "/public/images/773c6d14f7c857972d4bd650e3c654f1411995a6.png";
+import workbloxLogoImage from "/public/images/c044b56280742261b063d13d31464de7339ac42d.png";
+import wudgetsLogoImage from "/public/images/86475b8d75b4c2f1e3368f2af3b6c8e544543410.png";
+import eliteHomeTherapyImage from "/public/images/b6cc983ddaded72146a675e8178059bfd88be353.png";
+import sweetLondonImage from "/public/images/379517f3422b2cf9abfcdc28515134b663d3609a.png";
+import socialPost1 from "/public/images/ff133c250ceb094d4bb39c98a06de6a50db10cea.png";
+import socialPost2 from "/public/images/a0963cd6bd9e3fc63b5804b84c3d378345d57bee.png";
+import socialPost3 from "/public/images/c3e9b9efaa533e19c7a85b2fe02c96dcef6ea66c.png";
+import socialPost4 from "/public/images/674b19865c844e0a1f78cf015a54267f31a16ec4.png";
+import socialPost5 from "/public/images/69d26f52c411e08acf40885a739a89f39b9bb171.png";
+import socialPost6 from "/public/images/721b7dc453c371755c50877c793d559cd8c705fa.png";
+import socialPost7 from "/public/images/64a18d0f920958b9344f4374370e02de9e3e0ea7.png";
+import socialPost8 from "/public/images/ff51e6d2bbe3b80c14ea05136d735e1ede79ba69.png";
+import socialPost9 from "/public/images/ab1416536d2ade22c96668ce8ccea5f333aedd81.png";
+import artemisPost from "/public/images/1864f5ff024d658806c15bc75fa6a63aadad5991.png";
+import flamingoPost from "/public/images/30ae0ed1956558419bddb3b73b6bd1cd153f2ffc.png";
+import kompleksiFatiPost from "/public/images/c11d0443205f9c4384809803030a86908a0c86a9.png";
+import uraqaniPost from "/public/images/0e6cac6459cba4f28f8b2be96cd43736527defb0.png";
+import starbucksPost from "/public/images/e8a0b49dfa3e18133f656bf1a0122e08460d8550.png";
+import reltoHousingPost from "/public/images/4ea046db8d4b11228ff5bd3963d6f9cf8ad9e85e.png";
+import adriusEstimatorPost from "/public/images/394f7c82ff53a8c8d238caf7cbef23a6e7c1c881.png";
 
 export default function App() {
   const projects = [
