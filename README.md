@@ -8,6 +8,7 @@ Your application has been successfully converted to Next.js! Here's what changed
 
 ### Key Changes
 
+
 1. **Framework**: Migrated from Vite to Next.js 15
 2. **Routing**: Using Next.js App Router architecture
 3. **Image Handling**: Images need to be moved to `/public/images` folder
